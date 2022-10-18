@@ -1,4 +1,5 @@
 print("Program menghitung total pembayaran")
+print("Dengan diskon dinamis dari user")
 
 total_transaksi = float(input("Masukan total transasi : "))
 total_diskon = total_transaksi * 0.1
